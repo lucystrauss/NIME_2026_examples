@@ -2,7 +2,8 @@ This webpage features audio and visual examples for the following publication:
 
 Strauss, L., Thattai Ravikumar, P., Yee-King, M. ‘Cross-Modal Sig2Sig Machine Translation with Deep Generative Modeling for NIME Design’. International Conference on New Interfaces for Musical Expression, 2026.
 
-[`GitHub`](https://github.com/lucystrauss/MLMLMLM): MLMLMLM GitHub repository
+[`GitHub`](https://github.com/lucystrauss/MLMLMLM): MLMLMLM GitHub Repository
+[`Music`](https://lucystrauss.com/mlmlmlm) Artistic Research Project Page
 
 
 ## Phase 1: Audio DGM Experiments
