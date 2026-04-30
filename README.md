@@ -10,33 +10,11 @@ Strauss, L., Thattai Ravikumar, P., Yee-King, M. ‘Cross-Modal Sig2Sig Machine 
 [`Music`](https://lucystrauss.com/mlmlmlm): Artistic Research Project Page
 
 
-## Phase 1: Audio DGM Experiments
+## EA Experiments
 
+Below is a tabulation of model outputs corresponding to Tables 3 & 4, Section 6.1 in the associated publication.
 
-| TE 1 | TE 2 |
-| ------------ | ----------------- | 
-| <audio controls preload=False><source src="audio/T1_100_epochs.wav" type="audio/wave">Audio not supported by your browser.</audio> | <audio controls preload=False><source src="audio/T2_100_epochs.wav" type="audio/wave">Audio not supported by your browser.</audio> |
-
-
-
-## Phase 2: EMG+audio DGM Experiments
-
-
-| TE 1 | TE 2 |
-| ------------ | ----------------- | 
-| <audio controls preload=False><source src="audio/T1_100_epochs.wav" type="audio/wave">Audio not supported by your browser.</audio> | <audio controls preload=False><source src="audio/T2_100_epochs.wav" type="audio/wave">Audio not supported by your browser.</audio> |
-
-
-## Phase 2: EMG DGM Experiments
-
-
-| TE 1 | TE 2 |
-| ------------ | ----------------- | 
-| <audio controls preload=False><source src="audio/T1_100_epochs.wav" type="audio/wave">Audio not supported by your browser.</audio> | <audio controls preload=False><source src="audio/T2_100_epochs.wav" type="audio/wave">Audio not supported by your browser.</audio> |
-
-## Phase 3: EMG-->Audio Cross-Attention Transformer Experiments
-
-
-| TE 1 | TE 2 |
-| ------------ | ----------------- | 
-| <audio controls preload=False><source src="audio/T1_100_epochs.wav" type="audio/wave">Audio not supported by your browser.</audio> | <audio controls preload=False><source src="audio/T2_100_epochs.wav" type="audio/wave">Audio not supported by your browser.</audio> |
+| EA VAE 1 | EA VAE 2 | EA VAE 3 | EA VAE 3 | EA VAE 4 |
+| epoch 113 | epoch 96 | epoch 96 | epoch 113 | epoch 113 |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| <audio controls preload=False><source src="audio/paired/EA_VAE1_audio_113.wav" type="audio/wave">Audio not supported by your browser.</audio> | <audio controls preload=False><source src="audio/paired/EA_VAE2_audio_96.wav" type="audio/wave">Audio not supported by your browser.</audio> | <audio controls preload=False><source src="audio/paired/EA_VAE3_audio_96.wav" type="audio/wave">Audio not supported by your browser.</audio> | <audio controls preload=False><source src="audio/paired/EA_VAE3_audio_113.wav" type="audio/wave">Audio not supported by your browser.</audio> | <audio controls preload=False><source src="audio/paired/EA_VAE4_audio_113.wav" type="audio/wave">Audio not supported by your browser.</audio> |
