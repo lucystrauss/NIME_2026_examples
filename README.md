@@ -10,11 +10,14 @@ Strauss, L., Thattai Ravikumar, P., Yee-King, M. ‘Cross-Modal Sig2Sig Machine 
 [`Music`](https://lucystrauss.com/mlmlmlm): Artistic Research Project Page
 
 
+[`This Page`](https://lucystrauss.github.io/NIME_2026_examples/): Listening Examples
+
+
 ## EA Experiments
 
 Below is a tabulation of model outputs corresponding to Tables 3 & 4, Section 6.1 in the associated publication. Each playback features four pairs of original and reconstructed signals. Original and reconstructed samples are interleaved.
 
-** BEWARE OF SUDDEN LOUD CLICKS!!! LISTEN TO EACH SAMPLE ON A LOW VOLUME FIRST!!! **
+<b>BEWARE OF SUDDEN LOUD CLICKS!!! LISTEN TO EACH SAMPLE WITH LOW VOLUME FIRST!!!</b>
 
 | EA VAE 1 | epoch 113 | <audio controls preload=False><source src="./audio/paired/EA_VAE1_audio_113.wav" type="audio/wav">Audio not supported by your browser.</audio> |
 | EA VAE 2 | epoch 96 | <audio controls preload=False><source src="./audio/paired/EA_VAE2_audio_96.wav" type="audio/wav">Audio not supported by your browser.</audio> |
