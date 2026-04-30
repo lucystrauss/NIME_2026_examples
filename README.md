@@ -28,12 +28,12 @@ Below is a tabulation of model outputs from the interim training phase, correspo
 
 ## MLMLMLM Outputs
 
-The following listening examples are model outputs using the full MLMLMLM architecture, composed of two RVQ-VAEs and a Transformer decoder in latent space. In TE1, the cross-attention causal mask and kv caching were not yet implemented. TE2 outputs are truly causal and autoregressive with streaming conditioning.
+The following listening examples are model outputs using the full MLMLMLM architecture, composed of two RVQ-VAEs and a Transformer decoder in latent space. In TE1, the cross-attention causal mask and kv caching were not yet implemented. TE2 outputs are truly causal and autoregressive with streaming conditioning, as described in Section 7 of the associated publication.
 
 | TE1 | epoch 100 | <audio controls preload=False><source src="./audio/transformer/T1_100_epochs.wav" type="audio/wav">Audio not supported by your browser.</audio> |
 | TE1 | epoch 99 | <audio controls preload=False><source src="./audio/transformer/TE1_99_epochs.wav" type="audio/wav">Audio not supported by your browser.</audio> |
 | TE1 | epoch 98 | <audio controls preload=False><source src="./audio/transformer/TE1_98_epochs.wav" type="audio/wav">Audio not supported by your browser.</audio> |
-| TE1 | epoch 97 | <audio controls preload=False><source src="./audio/transformer/TE1_97_epochs.wav" type="audio/wav">Audio not supported by your browser.</audio> |
+| TE1 | epoch 97 | <audio controls preload=False><source src="./audio/transformer/TE1_97_eopchs.wav" type="audio/wav">Audio not supported by your browser.</audio> |
 
 
 | TE2 | epoch 100 | <audio controls preload=False><source src="./audio/transformer/T2_100_epochs.wav" type="audio/wav">Audio not supported by your browser.</audio> |
