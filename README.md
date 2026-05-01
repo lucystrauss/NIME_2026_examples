@@ -40,3 +40,39 @@ The following listening examples are model outputs using the full MLMLMLM archit
 | TE2 | epoch 99 | <audio controls preload=False><source src="./audio/transformer/TE2_99_epochs.wav" type="audio/wav">Audio not supported by your browser.</audio> |
 | TE2 | epoch 98 | <audio controls preload=False><source src="./audio/transformer/TE2_98_epochs.wav" type="audio/wav">Audio not supported by your browser.</audio> |
 | TE2 | epoch 97 | <audio controls preload=False><source src="./audio/transformer/TE2_97_epochs.wav" type="audio/wav">Audio not supported by your browser.</audio> |
+
+## Spectrogram outputs
+
+Below are some spectrogram representations of original and reconstructed signal samples from experiment EA VAE 3 during training. The paper reports loss values at 113 epochs for ease of comparison with other runs. However, during training, we noticed that this run was looking promising and continued training for a total of 175 epochs. These spectrograms are from the end of training. Notice that they are even clearer than those presented in Appendix B of the associated publication. Especially notice the improved accuracy of the reconstructions for channel 6.
+
+
+<p align="center">
+<img src="./images/paired/EA_VAE_3_0_175epochs.png" alt="" width=35%></p>
+<p align="center">
+<img src="./images/paired/EA_VAE_3_1_175epochs.png" alt="" width=35%></p>
+<p align="center">
+<img src="./images/paired/EA_VAE_3_2_175epochs.png" alt="" width=35%></p>
+<p align="center">
+<img src="./images/paired/EA_VAE_3_3_175epochs.png" alt="" width=35%></p>
+<p align="center">
+<img src="./images/paired/EA_VAE_3_4_175epochs.png" alt="" width=35%></p>
+<p align="center">
+<img src="./images/paired/EA_VAE_3_5_175epochs.png" alt="" width=35%></p>
+<p align="center">
+<img src="./images/paired/EA_VAE_3_6_175epochs.png" alt="" width=35%></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
