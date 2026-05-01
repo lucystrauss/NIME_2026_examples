@@ -47,19 +47,19 @@ Below are some spectrogram representations of original and reconstructed signal 
 
 
 <p align="center">
-<img src="./images/paired/EA_VAE_3_0_175epochs.png" alt="" width=35%></p>
+<img src="./images/paired/EA_VAE_3_0_175epochs.png" alt="" width="35%"></p>
 <p align="center">
-<img src="./images/paired/EA_VAE_3_1_175epochs.png" alt="" width=35%></p>
+<img src="./images/paired/EA_VAE_3_1_175epochs.png" alt="" width="35%"></p>
 <p align="center">
-<img src="./images/paired/EA_VAE_3_2_175epochs.png" alt="" width=35%></p>
+<img src="./images/paired/EA_VAE_3_2_175epochs.png" alt="" width="35%"></p>
 <p align="center">
-<img src="./images/paired/EA_VAE_3_3_175epochs.png" alt="" width=35%></p>
+<img src="./images/paired/EA_VAE_3_3_175epochs.png" alt="" width="35%"></p>
 <p align="center">
-<img src="./images/paired/EA_VAE_3_4_175epochs.png" alt="" width=35%></p>
+<img src="./images/paired/EA_VAE_3_4_175epochs.png" alt="" width="35%"></p>
 <p align="center">
-<img src="./images/paired/EA_VAE_3_5_175epochs.png" alt="" width=35%></p>
+<img src="./images/paired/EA_VAE_3_5_175epochs.png" alt="" width="35%"></p>
 <p align="center">
-<img src="./images/paired/EA_VAE_3_6_175epochs.png" alt="" width=35%></p>
+<img src="./images/paired/EA_VAE_3_6_175epochs.png" alt="" width="35%"></p>
 
 
 
